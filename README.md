@@ -1,6 +1,6 @@
-# Hi, I'm Sohel 🏾‍💻
+# Hi, I'm Sohel 💻
 
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include NodeJs, ReactJS, Typescript, REST API, GraphQL, Microservices, Docker, Kubernetes, AWS, GCP.
+I'm a software engineer who is passionate about making open-source more accessible. Some technologies I enjoy working with include NodeJs, ReactJS, Typescript, REST API, GraphQL, Microservices, Docker, Kubernetes, AWS, GCP.
 
 ## Find me around the web 🌎:
 - <a href="https://www.linkedin.com/in/iamsohel/" target="_blank">LinkedIn</a> 💼
