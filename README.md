@@ -4,7 +4,7 @@
 
 ---
 
-I'm a software engineer who is passionate about making open-source more accessible. Some technologies I enjoy working with include NodeJs, Python, ReactJS, Typescript, REST API, GraphQL, Microservices, Docker, Kubernetes, AWS, GCP.
+I'm a software engineer who is passionate about making open-source more accessible. Some technologies I enjoy working with include NodeJs, Python, ReactJS, Typescript, REST API, GraphQL, Microservices, Docker, Kubernetes, AWS.
 
 - 🌏 I live in Dhaka, Bangladesh
 - 🔭 I’m currently working as a [FullStack Software Engineer](https://ergo-ventures.com/)
