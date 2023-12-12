@@ -16,16 +16,31 @@
 
 #### Now
 
-- :fire: Interested in Backend, DevOps and Cloud engineering;
-- :calendar: Looking for contributing to TypeScript, JavaScript based open source projects 
+- :fire: Interested in Backend, DevOps, and Cloud engineering;
+- :calendar: Looking to contribute to TypeScript, JavaScript-based open-source projects 
 
 #### Bio
 
 - 🏢 I'm currently working at **iXora Solution**
 - ⚙️ I use daily: `.ts`, `.js`, `.py`, `.yml`, `.sh`
-- 🌍 I'm mostly active within the **JavaScript Community**
-- 🌱 Learning all about **Microservices**, **DevOps**
-- 💬 Ping me about **Node.js**, **Python**, **Docker**, **RestAPIs**, **AWS**
+- Dynamic Software Engineering Lead with **6+** years of hands-on experience in architecting, developing, and maintaining sophisticated, robust, and complex applications from inception to execution.
+- Proven success in project ownership, demonstrating the ability to take charge, ensure quality deliverables, and navigate complex technical challenges.
+- Proficient in software development, and team management, and passionate about mentoring and guiding teams to success.
+- 💬 Ping me about **Node.js**, **Python**, **Docker**, **Kubernetes**, **AWS**
+
+#### Skills
+
+- Node.js, Python, Typescript, Javascript
+- `Framework`: Nest.js, Express.js, Django, Django-Rest-Framework, FastAPI
+- `Database`: Postgresql, MySQL, MongoDB, Redis
+- `Message Broker`: RabbitMQ, NATS Jetsreaming
+- `DevOps`: Github Actions, ArgoCD, Docker, Kubernetes, Helm Charts
+- `Web Server`: Nginx
+- `Payment Platform`: Stripe
+- `Code Quality Scanner`: SonarQube
+- `Testing Frameworks`: Jest, Supertest
+- `Cloud and Others`: GCP, AWS: (EC2, Elastic Beanstalk, S3, CloudFront, CloudWatch, IAM, Serverless(lambda), Elastic Transcoder, MediaConvert)
+                    Git, GitHub, GitLab, BitBucket, JIRA, Azure DevOps Board, Docker, Heroku, Postman
 
 <a href="https://www.linkedin.com/in/iamsohel/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
