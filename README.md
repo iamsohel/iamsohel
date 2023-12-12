@@ -17,7 +17,7 @@
 #### Now
 
 - :fire: Interested in Backend, DevOps, and Cloud engineering;
-- :calendar: Looking to contribute to TypeScript, JavaScript-based open-source projects 
+- :calendar: Looking to contribute to TypeScript, JavaScript, Python based open-source projects 
 
 #### Bio
 
