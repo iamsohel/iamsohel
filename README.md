@@ -17,7 +17,7 @@
 #### Now
 
 - :fire: Interested in Backend, DevOps, and Cloud engineering;
-- :calendar: Looking to contribute to TypeScript, JavaScript, Python based open-source projects 
+- :calendar: Looking to contribute to Python, Node.JS, TypeScript, JavaScript based open-source projects 
 
 #### Bio
 
@@ -30,15 +30,15 @@
 
 #### Skills
 
-- Node.js, Python, Typescript, Javascript
-- `Framework`: Nest.js, Express.js, Django, Django-Rest-Framework, FastAPI
+- Python, Node.js, Typescript, Javascript
+- `Framework`: Django, Django-Rest-Framework, FastAPI, Nest.js, Express.js
 - `Database`: Postgresql, MySQL, MongoDB, Redis
 - `Message Broker`: RabbitMQ, NATS Jetsreaming
 - `DevOps`: Github Actions, ArgoCD, Docker, Kubernetes, Helm Charts
 - `Web Server`: Nginx
 - `Payment Platform`: Stripe
 - `Code Quality Scanner`: SonarQube
-- `Testing Frameworks`: Jest, Supertest
+- `Testing Frameworks`: PyTest, Jest, Supertest
 - `Cloud and Others`: GCP, AWS: (EC2, Elastic Beanstalk, S3, CloudFront, CloudWatch, IAM, Serverless(lambda), Elastic Transcoder, MediaConvert)
                     Git, GitHub, GitLab, BitBucket, JIRA, Azure DevOps Board, Docker, Heroku, Postman
 
