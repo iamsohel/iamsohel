@@ -1,5 +1,5 @@
 
-## Hi 👋, I'm a Sr. Software Engineer working in Dhaka, Bangladesh
+## Hi 👋, I’m a Technical Team Lead in Software Engineering from Dhaka, Bangladesh, passionate about building scalable systems and leading teams.
 
 <p align="left">
   <a href="https://stackoverflow.com/users/4423249/iamsohel">
