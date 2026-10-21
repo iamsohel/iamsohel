@@ -23,7 +23,7 @@
 
 - 🏢 I'm currently working at **iXora Solution**
 - ⚙️ I use daily: `.ts`, `.js`, `.py`, `.yml`, `.sh`
-- Dynamic Software Engineering Lead with **7+** years of hands-on experience in architecting, developing, and maintaining sophisticated, robust, and complex applications from inception to execution.
+- Dynamic Software Engineering Lead with **9+** years of hands-on experience in architecting, developing, and maintaining sophisticated, robust, and complex applications from inception to execution.
 - Proven success in project ownership, demonstrating the ability to take charge, ensure quality deliverables, and navigate complex technical challenges.
 - Proficient in software development, and team management, and passionate about mentoring and guiding teams to success.
 - 💬 Ping me about **Python**, **Node.js**, **Docker**, **Kubernetes**, **AWS**
